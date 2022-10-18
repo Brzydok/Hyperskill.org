@@ -46,5 +46,3 @@ while lifes_counter > 0:
         print(f"You guessed the word {word}!\nYou survived!")
         break
     guessed_letters.add(letter)
-
-
