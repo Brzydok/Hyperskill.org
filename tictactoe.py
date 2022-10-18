@@ -187,16 +187,17 @@ def result():
         print("O wins")
     else:
         print("Draw")
+        
+        
+def one_round():
+    new_move_x()
+    matrix()
+    new_move_o()
+    matrix()
 
 matrix()
-new_move_x()
-matrix()
-new_move_o()
-matrix()
-new_move_x()
-matrix()
-new_move_o()
-matrix()
+one_round()
+one_round()
 new_move_x()
 matrix()
 result()
