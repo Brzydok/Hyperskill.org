@@ -126,4 +126,4 @@ def diff_annuity_monthly_payment_amount():
 if args.type == "diff":
     if args.payment == None:
         if args.interest != None:
-            diff_annuity_monthly_payment_amount()
+            diff_annuity_monthly_payment_amount() 
