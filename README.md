@@ -30,3 +30,7 @@ A program that helps the zookeepers check on the animals and make sure that they
 5.simple_bot.py
 
 multiple-choice quiz about programming with any number of options. Your bot has to repeat the test until you answer correctly and congratulate you upon completion.
+
+6.last_pencil.py
+
+Playing with friends is pure fun but getting ahead of them is even more enjoyable. Invite a friend to play the Last Pencil, a game where you decide who wins. In this project, your opponent is a computer that is an expert in the game. But it's up to you to choose who wins.
