@@ -22,3 +22,7 @@ Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe,
 also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, 
 but thankfully it is simple enough that most players discover the best strategy quickly. 
 Let’s play!
+
+4.zookeeper.py
+
+A program that helps the zookeepers check on the animals and make sure that they're doing well. Your product will be able to process commands from the zookeepers and display the animals on a monitor.
