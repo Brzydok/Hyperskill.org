@@ -32,35 +32,35 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Tic-Tac-Toe">Simple Tic-Tac-Toe</a></td>
-  </tr>
-  <tr>
-    <td>2.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bot">Simple Chatty Bot</a></td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Zoo">Zookepper</a></td>
-  </tr>
-  <tr>
-    <td>4.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Web_scrapper">Web Scrapper</a></td>
-  </tr>
-  <tr>
-    <td>5.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Loan_Calculator">Loan Calculator</a></td>
-  </tr>
-  <tr>
-    <td>6.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Hangman">Hangman</a></td>
   </tr>
   <tr>
-    <td>7.</td>
+    <td>2.</td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Last_Pensil">Last Pencil</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Loan_Calculator">Loan Calculator</a></td>
+  </tr>
+  <tr>
+    <td>4.</td>  
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Bill_Splitter">Bill Splitter</a></td>
   </tr>
   <tr>
+    <td>5.</td>
+   <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Web_scrapper">Web Scrapper</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Tic-Tac-Toe">Simple Tic-Tac-Toe</a></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Zoo">Zookepper</a></td>
+  </tr>
+  <tr>
     <td>8.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Last_Pensil">Last Pencil</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bot">Simple Chatty Bot</a></td>
   </tr>
 </tbody></table>  
 <table>
