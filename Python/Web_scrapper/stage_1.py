@@ -1,5 +1,4 @@
 import requests
-import json
 
 url = input()
 response = requests.get(url)
