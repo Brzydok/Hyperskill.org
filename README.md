@@ -35,6 +35,5 @@ multiple-choice quiz about programming with any number of options. Your bot has 
 
 Playing with friends is pure fun but getting ahead of them is even more enjoyable. Invite a friend to play the Last Pencil, a game where you decide who wins. In this project, your opponent is a computer that is an expert in the game. But it's up to you to choose who wins.
 
-
 7. bill_splitter.py
 Everyone likes eating out with friends. The more friends, the better, but the bill time is always a bummer, to say the least. Why not develop a tool to keep the fun alive and make sure that everyone pays an equal amount.
