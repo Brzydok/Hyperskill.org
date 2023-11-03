@@ -70,27 +70,15 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Tic-Tac-Toe)">Simple Banking System</a></td>
+    <td><a href="google.com">Library Management System</a></td>
   </tr>
   <tr>
     <td>2.</td>
-    <td><a href="https://github.com/Mathesh099/Arithmetic-Exam-Application.git">Arithmetic Exam Application</a></td>
+    <td><a href="google.com">Hacker Attack</a></td>
   </tr>
   <tr>
     <td>3.</td>
-    <td><a href="https://github.com/Mathesh099/Rock-Paper-Scissors.git">Rock-Paper-Scissors</a></td>
-  </tr>
-  <tr>
-    <td>4.</td>
-    <td><a href="https://github.com/Mathesh099/Duplicate-File-Handler.git">Duplicate File Handler</a></td>
-  </tr>
-  <tr>
-    <td>5.</td>
-    <td><a href="https://github.com/Mathesh099/Web-Scraper.git">Web Scraper</a></td>
-  </tr>
-  <tr>
-    <td>6.</td>
-    <td><a href="https://github.com/Mathesh099/Food-Blog-Backend.git">Food Blog Backend</a></td>
+    <td><a href="google.com">Video Game DB</a></td>
   </tr>
 </tbody></table>
 <table>
