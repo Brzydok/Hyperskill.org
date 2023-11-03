@@ -84,7 +84,7 @@
 <table>
   <tbody><tr>
     <th>S.No</th>
-    <th>Other Project</th>
+    <th>Other Projects</th>
   </tr>
   <tr>
     <td>1.</td>
