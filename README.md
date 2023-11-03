@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td>3.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/SQL/Video_Games">Video Game DB</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/SQL/Video_Games">Video Games DB</a></td>
   </tr>
 </tbody></table>
 <table>
