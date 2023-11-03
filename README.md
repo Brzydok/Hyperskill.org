@@ -28,57 +28,49 @@
 <table>
   <tbody><tr>
     <th>S.No</th>
-    <th>Easy Projects</th>
+    <th>Python</th>
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Mathesh099/Tic-Tac-Toe.git">Simple Tic-Tac-Toe</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Tic-Tac-Toe">Simple Tic-Tac-Toe</a></td>
   </tr>
   <tr>
     <td>2.</td>
-    <td><a href="https://github.com/Mathesh099/Simple-Chatty-Bot.git">Simple Chatty Bot</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bot">Simple Chatty Bot</a></td>
   </tr>
   <tr>
     <td>3.</td>
-    <td><a href="https://github.com/Mathesh099/Zookeeper.git">Zookepper</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Zoo">Zookepper</a></td>
   </tr>
   <tr>
     <td>4.</td>
-    <td><a href="https://github.com/Mathesh099/Coffee-Machine.git">Coffee Machine</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Web_scrapper">Web Scrapper</a></td>
   </tr>
   <tr>
     <td>5.</td>
-    <td><a href="https://github.com/Mathesh099/Loan-Calculator.git">Loan Calculator</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Loan_Calculator">Loan Calculator</a></td>
   </tr>
   <tr>
     <td>6.</td>
-    <td><a href="https://github.com/Mathesh099/Hangman.git">Hangman</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Hangman">Hangman</a></td>
   </tr>
   <tr>
     <td>7.</td>
-    <td><a href="https://github.com/Mathesh099/Bill-Splitter.git">Bill Splitter</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Bill_Splitter">Bill Splitter</a></td>
   </tr>
   <tr>
     <td>8.</td>
-    <td><a href="https://github.com/Mathesh099/Currency-Converter.git">Currency Converter</a></td>
-  </tr>
-  <tr>
-    <td>9.</td>
-    <td><a href="https://github.com/Mathesh099/Dominoes.git">Dominoes</a></td>
-  </tr>
-  <tr>
-    <td>10.</td>
-    <td><a href="https://github.com/Mathesh099/Generating-Randomness.git">Generating Randomness</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Last_Pensil">Last Pencil</a></td>
   </tr>
 </tbody></table>  
 <table>
   <tbody><tr>
     <th>S.No</th>
-    <th>Medium Projects</th>
+    <th>SQL</th>
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Mathesh099/Simple-Banking-System.git">Simple Banking System</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Tic-Tac-Toe)">Simple Banking System</a></td>
   </tr>
   <tr>
     <td>2.</td>
