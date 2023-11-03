@@ -113,5 +113,3 @@
       </div>
 
   </readme-toc>
-  </body>
-</html>
