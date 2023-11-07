@@ -9,8 +9,7 @@
     -REFRACTORED AND TESTED ✔  
     -WORTH TO SEE 💎   
     -IN PROGRESS 🚧
-    
-    -Easy -Medium -⭕ Hard -Challanging  
+    -EASY -MEDIUM - HARD -CHALLENGING⭕  
   <table>
   <tbody><tr>
     <th>S.No</th>
