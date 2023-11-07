@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bank">Banking System💎🚧</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bank">Banking System🚧💎</a></td>
   </tr>
   </tbody></table>
 <table>
