@@ -7,10 +7,8 @@
     
 **This repository contains all python core track projects created while learning.**
     
-    -REFRACTORED AND TESTED ✔
-    
-    -WORTH TO SEE 💎
-    
+    -REFRACTORED AND TESTED ✔  
+    -WORTH TO SEE 💎   
     -IN PROGRESS 🚧
 
 
