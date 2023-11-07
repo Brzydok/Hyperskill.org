@@ -9,7 +9,7 @@
     -REFRACTORED AND TESTED ✔  
     -WORTH TO SEE 💎   
     -IN PROGRESS 🚧
-    <div class="Box-sc-g0xbh4-0 dIRgyu"></div>Hard    
+    -Easy -Medium -⭕ Hard -Challanging   
   <table>
   <tbody><tr>
     <th>S.No</th>
