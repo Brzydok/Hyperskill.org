@@ -11,7 +11,7 @@
   <table>
   <tbody><tr>
     <th>S.No</th>
-    <th>Hard</th>
+    <th>Hard Difficulty Level</th>
     <th>Desciption</th>
   </tr>
   <tr>
@@ -22,7 +22,7 @@
 <table>
   <tbody><tr>
     <th>S.No</th>
-    <th>Medium</th>
+    <th>Medium Difficulty Level</th>
       <th>Desciption</th>
   </tr>
   <tr>
@@ -48,7 +48,7 @@
  <table>
   <tbody><tr>
     <th>S.No</th>
-    <th>EASY</th>
+    <th>EASY Difficulty Level</th>
       <th>Desciption</th>
   </tr>
   <tr>
@@ -75,6 +75,7 @@
   <tr>
     <td>6.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Zoo">Zookepper</a></td>
+      <td>Basics of console</td>
   </tr>
   <tr>
     <td>7.</td>
