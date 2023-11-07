@@ -7,10 +7,10 @@
 <li>This repository contains all python core track projects created while learning.
 
 REFRACTORED AND TESTED ✔
-WORTH TO SEE 💎
-IN PROGRESS 🚧
 
-List of projects
+WORTH TO SEE 💎
+
+IN PROGRESS 🚧
 </li>
 </ul>
 </tbody></table>
