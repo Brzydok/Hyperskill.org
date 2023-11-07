@@ -6,7 +6,9 @@
 <ul dir="auto">
 **This repository contains all python core track projects created while learning.**
     -REFRACTORED AND TESTED ✔
+    
     -WORTH TO SEE 💎
+    
     -IN PROGRESS 🚧
 </ul>
 </tbody></table>
