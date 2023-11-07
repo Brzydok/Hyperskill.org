@@ -44,7 +44,7 @@
   <tr>
     <td>3.</td>
    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Web_scrapper">Web Scrapper🚧</a></td>
-      <td>scrapping using python</td>
+      <td>scrapping webs using python</td>
   </tr>
   <tr>
     <td>4.</td>
