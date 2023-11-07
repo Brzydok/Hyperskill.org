@@ -12,6 +12,7 @@
   <tbody><tr>
     <th>S.No</th>
     <th>Hard</th>
+    <th>Desciption</th>
   </tr>
   <tr>
     <td>1.</td>
