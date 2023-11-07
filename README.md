@@ -84,11 +84,21 @@
 <table>
   <tbody><tr>
     <th>S.No</th>
-    <th>Other Projects</th>
+    <th>Python with SQL</th>
   </tr>
   <tr>
     <td>1.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bank">Banking System</a></td>
+  </tr>
+</tbody></table>
+  <table>
+  <tbody><tr>
+    <th>S.No</th>
+    <th>Data Science</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/HR">HR Data Analysis</a></td>
   </tr>
 </tbody></table>
 </article>
