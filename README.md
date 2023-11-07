@@ -23,6 +23,7 @@
   <tbody><tr>
     <th>S.No</th>
     <th>Medium</th>
+      <th>Desciption</th>
   </tr>
   <tr>
     <td>1.</td>
@@ -48,10 +49,12 @@
   <tbody><tr>
     <th>S.No</th>
     <th>EASY</th>
+      <th>Desciption</th>
   </tr>
   <tr>
     <td>1.</td>
         <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/SQL/Hacker_Attack">Hacker Attack💎</a></td>
+      <td>Simple Desciption</td>
   </tr>
   <tr>
     <td>2.</td>
