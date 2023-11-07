@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Data_Science/HR">HR Data Analysis🚧</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Data_Science/HR">HR Data Analysis🚧💎</a></td>
   </tr>
 </tbody></table>
 <table>
@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bank">Banking System🚧</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bank">Banking System💎🚧</a></td>
   </tr>
   </tbody></table>
 <table>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Hangman">Hangman✔</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Hangman">Hangman✔💎</a></td>
   </tr>
   <tr>
     <td>2.</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>3.</td>
-     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Loan_Calculator">Loan Calculator✔</a></td>
+     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Loan_Calculator">Loan Calculator✔💎</a></td>
   </tr>
   <tr>
     <td>4.</td>  
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td>2.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/SQL/Hacker_Attack">Hacker Attack✔</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/SQL/Hacker_Attack">Hacker Attack✔💎</a></td>
   </tr>
   <tr>
     <td>3.</td>
