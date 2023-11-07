@@ -31,8 +31,6 @@
     <td>2.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Hangman">Hangman🟡💎</a></td>
   </tr>
-  </tbody></table>
-
     <td>3.</td>
      <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Loan_Calculator">Loan Calculator🟡💎</a></td>
   </tr>
@@ -45,6 +43,10 @@
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Tic-Tac-Toe">Simple Tic-Tac-Toe🟡</a></td>
   </tr>
   <tbody><tr>
+ <table>
+  <tbody><tr>
+    <th>S.No</th>
+    <th>Hard</th>
     <th>S.No</th>
     <th>EASY</th>
   </tr>
