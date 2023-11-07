@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/HR">HR Data Analysis</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Data_Science/HR">HR Data Analysis</a></td>
   </tr>
 </tbody></table>
 <table>
