@@ -22,7 +22,7 @@
         <tr>
     <td>2.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bank">Banking System🚧💎</a></td>
-      <td>with SQLite</td>
+      <td>python with SQLite</td>
   </tr>
 </tbody></table>
 <table>
@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td>7.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bot">Simple Chatty Bot</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bot">Chatty Bot</a></td>
       <td>basic chatty bot</td>
   </tr>
   <tr>
