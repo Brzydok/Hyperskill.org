@@ -17,6 +17,12 @@
   <tr>
     <td>1.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Data_Science/HR">HR Data Analysis🚧💎</a></td>
+      <td>data manipulation with Pandas</td>
+  </tr>
+        <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bank">Banking System🚧💎</a></td>
+      <td>with SQLite</td>
   </tr>
 </tbody></table>
 <table>
@@ -25,24 +31,25 @@
     <th>Medium Difficulty Level</th>
       <th>Desciption</th>
   </tr>
+
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bank">Banking System🚧💎</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Hangman">Hangman💎</a></td>
+      <td> player vs player game</td>
+  </tr>
+    <td>2.</td>
+     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Loan_Calculator">Loan Calculator💎</a></td>
+      <td>Basics of console</td>
   </tr>
   <tr>
-    <td>2.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Hangman">Hangman💎</a></td>
-  </tr>
     <td>3.</td>
-     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Loan_Calculator">Loan Calculator💎</a></td>
+   <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Web_scrapper">Web Scrapper🚧</a></td>
+      <td>Basics of console</td>
   </tr>
   <tr>
     <td>4.</td>
-   <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Web_scrapper">Web Scrapper🚧</a></td>
-  </tr>
-  <tr>
-    <td>5.</td>
-    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Tic-Tac-Toe">Simple Tic-Tac-Toe</a></td>
+    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Tic-Tac-Toe">Tic-Tac-Toe</a></td>
+      <td>player vs player game</td>
   </tr>
   <tbody><tr>
  <table>
@@ -59,18 +66,22 @@
   <tr>
     <td>2.</td>
    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/SQL/LMS">Library Management System</a></td>
+      <td>Basics of console</td>
   </tr>
   <tr>
     <td>3.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/SQL/Video_Games">Video Games DB</a></td>
+      <td>Basics of console</td>
   </tr>
   <tr>
     <td>4.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Last_Pensil">Last Pencil</a></td>
+      <td>basics of console</td>
   </tr>
   <tr>
     <td>5.</td>  
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Bill_Splitter">Bill Splitter</a></td>
+      <td>Basics of console</td>
   </tr>
   <tr>
     <td>6.</td>
@@ -80,6 +91,7 @@
   <tr>
     <td>7.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bot">Simple Chatty Bot</a></td>
+      <td>basic chatty bot</td>
   </tr>
   <tr>
 </tbody></table>
