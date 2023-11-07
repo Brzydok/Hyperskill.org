@@ -1,6 +1,6 @@
 import pandas as pd
-import os
 import requests
+import os
 
 
 if __name__ == '__main__':
