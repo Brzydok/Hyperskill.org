@@ -120,8 +120,6 @@ Switching on the camera in the rabbit habitat...
 It looks like we will soon have more rabbits!"""
 
 
-animals = [camel, lion, deer, goose, bat, rabbit]
-
 # write your code here
 animals = [camel, lion, deer, goose, bat, rabbit]
 
