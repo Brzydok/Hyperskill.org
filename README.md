@@ -70,7 +70,7 @@
   </tr>
        <tr>
     <td>3.</td>
-   <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Git">Git</a></td>
+   <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Git/Remote">Remote</a></td>
       <td>basics of Git</td>
   </tr>
   <tr>
