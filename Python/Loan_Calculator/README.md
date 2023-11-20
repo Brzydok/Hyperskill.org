@@ -1,2 +1,3 @@
-Personal finances are an important part of life. Sometimes you need some extra money and decide to take a loan, or you want to buy a house using a mortgage. 
-To make an informed decision, you need to be able to calculate different financial parameters. This is a program that can help us with that!
+# Loan Calculator
+
+Managing personal finances is a crucial aspect of life. Whether you're considering taking out a loan or planning to buy a house using a mortgage, making informed financial decisions is key. This program is designed to assist you in calculating various financial parameters, empowering you to make well-informed choices.
