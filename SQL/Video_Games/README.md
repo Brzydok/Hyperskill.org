@@ -1,4 +1,5 @@
-One day, I, a renowned SQL expert, was minding my own business in my office when suddenly, there was a knock on my door. 
-It was a private detective who wanted to hire me for an urgent case—the disappearance of a well-known game developer. 
-The developer left some diary excerpts and a random shapeless tangle of cells and columns with video game information. 
-Only I, with my unique abilities, could decipher the riddle in the data in time to save the guy. Time was running out, and a person's life might be at risk.
+# SQL Expert on a Detective Mission
+
+One ordinary day, as a distinguished SQL expert engrossed in my office work, I was interrupted by an unexpected knock on my door. To my surprise, a private detective stood before me, urgently seeking my expertise for a critical case—the mysterious disappearance of a well-known game developer.
+
+The developer had left behind diary excerpts and a perplexing array of cells and columns containing video game information. Only I, with my unique SQL abilities, possessed the skills needed to decipher the riddle within the data in a race against time to save the individual. The urgency of the situation was palpable, and a person's life hung in the balance.
