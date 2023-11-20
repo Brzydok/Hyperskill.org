@@ -68,28 +68,33 @@
    <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/SQL/LMS">Library Management System</a></td>
       <td>with SQLite</td>
   </tr>
-  <tr>
+       <tr>
     <td>3.</td>
+   <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Git">Git</a></td>
+      <td>basics of Git</td>
+  </tr>
+  <tr>
+    <td>4.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/SQL/Video_Games">Video Games DB</a></td>
       <td>with SQLite</td>
   </tr>
   <tr>
-    <td>4.</td>
+    <td>5.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Last_Pensil">Last Pencil</a></td>
       <td>player vs player game</td>
   </tr>
   <tr>
-    <td>5.</td>  
+    <td>6.</td>  
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Bill_Splitter">Bill Splitter</a></td>
       <td>random module</td>
   </tr>
   <tr>
-    <td>6.</td>
+    <td>7.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Zoo">Zookepper</a></td>
       <td>basics of console</td>
   </tr>
   <tr>
-    <td>7.</td>
+    <td>8.</td>
     <td><a href="https://github.com/Brzydok/Hyperskill.org/tree/main/Python/Simple_Bot">Chatty Bot</a></td>
       <td>basic chatty bot</td>
   </tr>
