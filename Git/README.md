@@ -1,5 +1,6 @@
 I learned the basic git commands:
--initializing a repository
--staging changes
--making commits
--studing how to "ignore" unnecessary files
+\n-initializing a repository
+\n-staging changes
+\n-staging changes
+\n-making commits
+\n-studing how to "ignore" unnecessary files
