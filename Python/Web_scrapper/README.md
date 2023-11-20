@@ -1,2 +1,5 @@
-I created a function that takes a website address and a number of webpages as input arguments and then goes all over the website 
-saving every news article on the page to a separate .txt file on my computer.
+# Web Scraping Function for News Articles
+
+I've developed a versatile function that takes a website address and the desired number of webpages as input arguments. This function navigates through the specified website, systematically saving every news article encountered to individual .txt files on my computer.
+
+Empowered with this functionality, I can efficiently extract and store news articles, making it a handy tool for content extraction from websites.
