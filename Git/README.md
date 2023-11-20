@@ -1,11 +1,8 @@
-I learned the basic git commands:
+# Git Basics
 
--initializing a repository
+I have gained knowledge in using basic Git commands. These include:
 
--staging changes
-
--staging changes
-
--making commits
-
--studing how to "ignore" unnecessary files
+- Initializing a repository
+- Staging changes
+- Making commits
+- Studying how to "ignore" unnecessary files
